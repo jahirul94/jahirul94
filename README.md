@@ -14,4 +14,4 @@ I am a results-driven MERN Stack Developer with a strong passion for creating ro
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true&theme=transparent)
