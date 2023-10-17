@@ -1,5 +1,5 @@
-<div style="margin: 10 auto; text-align: center;">
-    <img src="https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI" alt="GitHub Icon">
+<div style="margin: 0 auto; text-align: center;">
+    <img src="https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI" alt="GitHub Icon" style="margin: 20 auto;">
 </div>
 
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jahirul94&label=Profile%20views&color=0e75b6&style=flat" alt="jahirul islam" /> </div>
