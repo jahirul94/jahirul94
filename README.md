@@ -1,5 +1,5 @@
 ![A  MERN Stack Developer ](https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI)
-![Profile views]((https://github.com/jahirul94/jahirul94))  
+![](https://komarev.com/ghpvc/?username=jahirul94)
 
 ## Hi, I'm Jahirul Islam
 #### A  MERN Stack Developer 
