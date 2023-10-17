@@ -15,8 +15,13 @@
 - 📫 How to reach me: You can send mail to get fast response 
 
 <div style="display: flex; justify-content: space-between;">
+    <div>
+        
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahirul94&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true&theme=transparant)   
+    </div>
+    <div>
+![Anurag's GitH ub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true&theme=transparant)   
+    </div>
 </div>
 
 
