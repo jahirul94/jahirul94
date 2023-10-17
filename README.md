@@ -5,7 +5,7 @@
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=jahirul94&label=Profile%20views&color=0e75b6&style=flat" alt="jahirul islam" /> </div>
 
 
-<h1 align="center" color="black">Hi, I'm Jahirul Islam</h1>
+<h1 align="center">Hi, I'm Jahirul Islam</h1>
 <h3 align="center">A  MERN Stack Developer From Sylhet, Bangladesh</h3> 
 
 <p>I am a results-driven MERN Stack Developer with a strong passion for creating robust and innovative web applications. With a keen eye for detail and a dedication to writing clean, efficient code, I'm committed to delivering high-quality software solutions.</p>
