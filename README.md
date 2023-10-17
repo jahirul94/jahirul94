@@ -1,4 +1,7 @@
 ![A  MERN Stack Developer ](https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI)
+<div style="margin: 0 auto; text-align: center;">
+    <img src="[https://komarev.com/ghpvc/?username=your-github-username](https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI)" alt="GitHub Icon">
+</div>
 ![](https://komarev.com/ghpvc/?username=jahirul94&color=brightgreen)
 
 # Hi, I'm Jahirul Islam
