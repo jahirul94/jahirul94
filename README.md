@@ -12,6 +12,4 @@ I am a results-driven MERN Stack Developer with a strong passion for creating ro
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahirul94)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true)  
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahirul94&show_icons=true&theme=transparent)
