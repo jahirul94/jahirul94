@@ -2,9 +2,9 @@
     <img src="https://media.licdn.com/dms/image/D5616AQH_MGOO9hb1hg/profile-displaybackgroundimage-shrink_350_1400/0/1691398463805?e=1703116800&v=beta&t=PksvZcAAezlAdhH6GLXwSCWuUIzr9bxURgANL-EhyzI" alt="GitHub Icon">
 </div>
 <div style="margin: 0 auto; text-align: center;">
-   ![](https://komarev.com/ghpvc/?username=jahirul94&color=brightgreen) 
+  ![](https://komarev.com/ghpvc/?username=jahirul94)
 </div>
-
+![](https://komarev.com/ghpvc/?username=jahirul94)
 # Hi, I'm Jahirul Islam
 #### A  MERN Stack Developer 
 
